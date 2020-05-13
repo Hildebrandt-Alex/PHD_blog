@@ -34,6 +34,21 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Markdown cheat sheet</title>
+      <link>/post/markdown-cheat-sheet/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/markdown-cheat-sheet/</guid>
+      <description>Reference: Markdown tutorial, R Markdown: The definitive guideBasic stuffbold text :
+use asterics like this: **its bold**italic text :
+use underscore like this: _its italic_bold &amp;amp; italic :
+use asterics and underscore **_bold&amp;amp;italic_**header: use hash mark (the more the smaller the header become)
+#header##header###header####headerLinks : Inline links
+[Visit GitHub!](www.github.com)Links : Reference links
+ Here&amp;#39;s [a link to something else][another place].</description>
+    </item>
+    
+    <item>
       <title>new_one_best_one</title>
       <link>/post/new-one-best-one/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>

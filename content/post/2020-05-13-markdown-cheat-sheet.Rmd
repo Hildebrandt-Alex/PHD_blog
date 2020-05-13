@@ -1,0 +1,78 @@
+---
+title: Markdown cheat sheet
+author: Alex.Hildebrandt
+date: '2020-05-13'
+slug: markdown-cheat-sheet
+categories:
+  - R
+tags:
+  - R Markdown, cheat sheet
+description: 'cheat sheet for scripting R Markdown files'
+topics: []
+---
+### Reference: [_Markdown tutorial_](https://www.markdowntutorial.com/), [_R Markdown: The definitive guide_](https://bookdown.org/yihui/rmarkdown/)
+
+
+# Basic stuff
+
+**bold text**  : 
+
+    use asterics like this: **its bold**
+    
+__italic text__ : 
+
+    use underscore like this: _its italic_
+    
+**_bold & italic_** : 
+    
+    use asterics and underscore **_bold&italic_**
+
+**header**: use hash mark (the more the smaller the header become)
+
+    #header
+    ##header
+    ###header
+    ####header
+
+**Links** : [Inline links](www.github.com) 
+
+    [Visit GitHub!](www.github.com)
+    
+**Links** : [Reference links][another place]
+
+[another place]: www.github.com
+
+     Here's [a link to something else][another place].
+     Here's [yet another link][another-link].
+     And now back to [the first link][another place].
+
+     [another place]: www.github.com
+     [another-link]: www.google.com
+
+**Images** :  Inline image link with the titel _Benjamin Bannekat_               
+              
+    ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+
+
+
+**Blockquotes** : Use this  sign in front of Text:
+
+>"This thext has blockquotes." 
+
+**Lists**: use asterics 
+
+    * Milk
+    * Eggs
+    * Salmon
+    * Butter
+
+* Milk
+* Eggs
+* Salmon
+* Butter
+
+
+
+# Figures
+

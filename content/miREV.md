@@ -1,6 +1,6 @@
 ---
 date: "2014-04-09"
-description: How to contact me
+description: Find stable expressed transcripts
 sidemenu: "true"
 title: miREV
 ---
@@ -15,10 +15,7 @@ title: miREV
         <input id="first-name" class="pure-u-23-24" type="text">
       </div>
 
-      <div class="pure-u-1 pure-u-md-1-3">
-        <label for="last-name">Last Name</label>
-        <input id="last-name" class="pure-u-23-24" type="text">
-      </div>
+    email: alex.hildebrandt@tum.de
 
   </fieldset>
 </form>
